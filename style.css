@@ -1,0 +1,9 @@
+body{
+background-color: blueviolet;
+color: aqua;
+display:flex;
+justify-items: center ;
+align-items: center;
+height: 700px;
+
+}
